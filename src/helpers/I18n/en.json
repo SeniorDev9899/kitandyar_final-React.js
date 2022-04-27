@@ -1,0 +1,374 @@
+{
+    "id": "en",
+    "global": {
+        "cart": "Cart",
+        "delivery": "Delivery",
+        "carrier": "Carrier",
+        "payment": "Payment",
+        "order": "Order",
+        "server_connect_failed": "Server connect failed. Please re-opening",
+        "size": "Size",
+        "color": "Color",
+        "connecting": "Connecting..."
+    },
+    "signin_screen": {
+        "signin": "Sign In",
+        "email_address":"Email Address",
+        "password": "Password",
+        "signin_upper": "SIGN IN",
+        "invalid_email_address": "Invalid email address",
+        "password_empty": "Pasword Empty",
+        "validate_success": "validate is success!",
+        "signin_with_email": "Sign In with email",
+        "dont_have_an_account": "Don't have an account ?",
+        "signup": "Sign Up",
+        "signin_success": "Successfully Sign In",
+        "incorrect_password": "Incorrect password",
+        "incorrect_email": "Incorrect Email"
+    },
+    "signup_screen": {
+        "invalid_email_address": "Invalid email address",
+        "signup_with": "Sign Up With",
+        "email": "Email",
+        "signup_using_email_address": "Signing up using your email address",
+        "email_address": "Email Address",
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "password": "Password",
+        "birthdate": "Birthdate (MM/DD/YYYY)",
+        "contact_preferences": "CONTACT PREFERENCES",
+        "contact_preferences_content_1": "Sign me up for exclusive KITANDYAR discounts and style advice by email, post and text.",
+        "contact_preferences_content_2": "Yes, send me updates by email, post and text from selected KITANDYAR partners.",
+        "join_kitandyar": "JOIN KITANDYAR",
+        "agree_create_account_pre": "By creating your account, you agree to our",
+        "agree_create_account_back": "Terms and Condition",
+        "have_account": " Have an account ?",
+        "signin": "Sign In",
+        "success": "Success"
+    },
+    "signup_guest_screen": {
+        "invalid_email_address": "Invalid email address",
+        "signup_as": "Sign Up As",
+        "a_guest": "A Guest",
+        "signup_using_email_address": "Signing up using your email address",
+        "email_address": "Email Address",
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "password": "Password",
+        "birthdate": "Birthdate (MM/DD/YYYY)",
+        "contact_preferences": "CONTACT PREFERENCES",
+        "contact_preferences_content_1": "Sign me up for exclusive KITANDYAR discounts and style advice by email, post and text.",
+        "contact_preferences_content_2": "Yes, send me updates by email, post and text from selected KITANDYAR partners.",
+        "join_kitandyar": "JOIN KITANDYAR AS A GUEST",
+        "agree_create_account_pre": "By creating your account, you agree to our",
+        "agree_create_account_back": "Terms and Condition",
+        "have_account": " Have an account ?",
+        "signin": "Sign In",
+        "success": "Success"
+    },
+    "forgot_password_screen": {
+        "invalid_email_address":"Invalid email address",
+        "create_new_password": "Create new password",
+        "reset_password_content": "To reset your password, enter your email address below and follow the instructions in the email we'll send you",
+        "enter_email_address": "Enter email address",
+        "send_reset_link": "SEND RESET LINK"
+    },
+    "carrier_screen" :{
+        "mode_payment": "Mode Payement",
+        "your_carrier": "Your carrier :",
+        "back": "Back",
+        "next_step": "Next Step"
+    },
+    "cart_screen": {
+        "my_cart": "My Cart",
+        "total_price": "Total Price :",
+        "show_detail": "show detail",
+        "items": "items",
+        "show_items": "show items",
+        "subtotal": "Subtotal",
+        "discount": "Discount",
+        "shipping": "Shipping",
+        "free": "Free",
+        "have_promo_code": "have a promo code?",
+        "add": "ADD",
+        "voucher_has_expired": "This voucher has expired.",
+        "voucher_does_not_exist": "This voucher does not exist.",
+        "total_tax_incl": "Total (tax incl.)",
+        "taxes": "Taxes",
+        "next_step": "Next Step",
+        "guest": "guest",
+        "signin": "Sign In"
+    },
+    "delivery_screen": {
+        "address_delivery": "Address Delivery",
+        "address_description_content": "The selected address will be used both as your personal address (for invoice) and as your delivery address.:",
+        "shipping_address": "Shipping Address",
+        "billing_address_differs": "Billing address differs from shipping address",
+        "invoice_address": "Your Invoice Address",
+        "add_new_address": "ADD NEW ADDRESS",
+        "complete_information": "Please complete the information",
+        "your_address": "your address.",
+        "back": "Back",
+        "next_step": "Next Step",
+        "add_your_address": "Please add your address.",
+        "ok": "OK"
+    },
+    "order_detail_screen": {
+        "order": "Order",
+        "total_price": "Total Price :",
+        "modal_text": "You have to sign up if you want to order your cart really!  Will you sign up?",
+        "go_home": "Go Home",
+        "ingnor": "ignor",
+        "ok": "Ok"
+    },
+    "payment_Screen": {
+        "mode_payment": "Mode Payement",
+        "your_mode_payment": "Your mode payement :",
+        "show_detail": "show detail",
+        "items": "items",
+        "show_items": "show items",
+        "subtotal": "Subtotal",
+        "discount": "Discount",
+        "shipping": "Shipping",
+        "free": "Free",
+        "add": "ADD",
+        "total_tax_incl": "Total (tax incl.)",
+        "back": "Back",
+        "next_step": "Next Step",
+        "confirm": "Confirm"
+    },
+    "home_screen": {
+       "our_categories": "Our categories"
+    },
+    "list_product_screen": {
+        "relevance": "Relevance",
+        "name_atoz": "Name. A to Z",
+        "name_ztoa": "Name. Z to A",
+        "price_ltoh": "Price. low to high",
+        "price_htol": "Price. high to low",
+        "sort": "Sort"
+    },
+    "product_detail_screen": {
+        "out_of_stock": "Out of stock",
+        "reference": "Reference",
+        "in_stock": "In stock",
+        "items": "items",
+        "specific_references": "Specific References",
+        "ean13": "ean13:",
+        "condition_new_product": "Condition New product",
+        "product_related_to_this_item": "Products related to this item"
+    },
+    "search_product_detail": {
+        "toast_content": "Sorry for the inconvenience. Search again what you are looking for",
+        "relevance": "Relevance",
+        "name_atoz": "Name. A to Z",
+        "name_ztoa": "Name. Z to A",
+        "price_ltoh": "Price. low to high",
+        "price_htol": "Price. high to low",
+        "sort": "Sort",
+        "search_product_by_name": "Search product by name."
+    },
+    "add_address_screen": {
+        "validate_phone_number": "validate phone number!",
+        "add_new_address": "Add New Address",
+        "alias": "Alias",
+        "first_name": "First name*",
+        "last_name": "Last name*",
+        "company": "Company",
+        "vat_number": "VAT number",
+        "address": "Address*",
+        "address_complement": "Address Complement",
+        "zip_code": "Zip/Postal Code*",
+        "city": "City*",
+        "country": "Country*",
+        "phone": "Phone",
+        "add_address": "Add Address",
+        "cancel": "Cancel"
+    },
+    "address_detail_screen": {
+        "alias_valid": "Please add your address's alias!",
+        "first_name_valid": "Please add your First Name!", 
+        "last_name_valid": "Please add your Last Name!", 
+        "company_valid": "Please add your Company!", 
+        "vat_number_valid": "Please add your address's VAT number!", 
+        "adress_valid": "Please add your Address!", 
+        "address_complete_valid": "Please add your Address Complete!", 
+        "zip_code_valid": "Please add your address's Zip code!", 
+        "city_valid": "Please add your city!", 
+        "contry_valid": "Please select your country!", 
+        "phone_valid": "Please add your phone number!", 
+        "validate_phone_number": "validate phone number!", 
+        "add_new_address": "Add New Address", 
+        "address_detail": "Address Details", 
+        "update_address": "Update Address", 
+        "cancel": "Cancel"
+    },
+    "address_screen": {
+        "my_address": "My Address",
+        "add_new_address": "ADD NEW ADDRESS",
+        "complete_information": "Please complete the information",
+        "your_address": "your address."
+    },
+    "myaccount_screen": {
+        "my_profile": "My Profile",
+        "infomation": "Information",
+        "addresses": "Addresses",
+        "my_alerts": "My Alerts",
+        "order_history": "Order History And Details"
+    },
+    "notification_screen": {
+        "notification": "Notification"
+    },
+    "order_screen": {
+        "my_order": "My Order"
+    },
+    "profile_screen": { 
+        "personal_information": "Your personal information",
+        "social_title": "Social title",
+        "first_name": "First name",
+        "last_name": "Last name",
+        "email": "Email",
+        "password": "Password",
+        "new_password": "New Password",
+        "date_placeholder": "MM/DD/YYYY",
+        "radio_text_1": "Receive offers from our partners",
+        "radio_text_2": "Sign up for our newsletter\nYou may unsubscribe at any moment. For that purpose, please find our contact info in the legal notice.",
+        "update": "Update",
+        "cancel": "Cancel"
+    },
+    "card_item_component": {
+        "exp_date": "Exp. Date:",
+        "copyright": "© 2018 Copyright. All rights reserved."
+    },
+    "payment_item_component": {
+        "exp_date": "Exp. Date:"
+    },
+    "categorie_item_component": {
+        "products": "products"
+    },
+    "rating_review_component": {
+        "rating": "rating"
+    },
+    "rating_component": {
+        "rating": "Rating"
+    },
+    "header_component": {
+        "reset": "Reset"
+    },
+    "header_profile_component": {
+        "user_name": "Username"
+    },
+    "newsletter_component": {
+        "welcome_to": "WELCOME TO",
+        "copyright": "© 2018 Copyright. All rights reserved."
+    },
+    "modal_filter_component": {
+        "filter_by": "Filter By",
+        "category": "Category",
+        "range_price": "Range price",
+        "find": "Find",
+        "reset": "Reset"
+    },
+    "notification_item_component": {
+        "date": "Date :"
+    },
+    "order_item_component": {
+        "order_date": "Order Date",
+        "status": "Status",
+        "payment_method": "Payment Method",
+        "total": "Total"
+    },
+    "button_shopping_component": {
+        "add_to_cart": "Add To Cart"
+    },
+    "cart_component" : {
+        "total": "Total:"
+    },
+    "product_color_component": {
+        "choose_color": "Choose Colors"
+    },
+    "product_list_item_component": {
+        "add_cart": "ADD Cart"
+    },
+    "product_size_component": {
+        "your_size": "Your Size"
+    },
+    "single_select_dialog": {
+        "login": "Login",
+        "logout": "Logout",
+        "select_photo": "Select a Photo",
+        "welcome": "Welcome",
+        "select_language": "Select language",
+        "select_currency": "Select currency"
+    },
+    "constant": {
+        "currency_list": {
+            "aed": "AED",
+            "bhd": "BHD",
+            "kwd": "KWD",
+            "omr": "OMR",
+            "qar": "QAR",
+            "sar": "SAR",
+            "usd": "USD"
+        },
+        "country_list": {
+            "bahrain": "Bahrain",
+            "egypt": "Egypt",
+            "france": "France",
+            "germany": "Germany",
+            "irag": "Iraq",
+            "italy": "Italy",
+            "jordan": "Jordan",
+            "kuwait": "Kuwait",
+            "lebanon": "Lebanon",
+            "oman": "Oman",
+            "qatar": "Qatar",
+            "saudi_arabia": "Saudi Arabia",
+            "uae": "United Arab Emirates"
+        }
+    },
+    "app_navigator": {
+        "launch": "Launch",
+        "onboarding": "Onboarding",
+        "newsletter": "NewsLetter",
+        "signin": "SignIn",
+        "signup_with": "SignUpWith",
+        "password_forget": "PasswordForget",
+        "signup_with_email": "SignUpWithEmail",
+        "guest_signup": "GuestSignUp",
+        "tap": "Tab",
+        "home": "Home",
+        "product_detail": "ProductDetail",
+        "list_product": "ListProduct",
+        "search_product": "SearchProduct",
+        "commentaire": "Commentaire",
+        "addcommenter": "AddCommenter",
+        "cart": "Cart",
+        "payment": "Payement",
+        "delivery": "Delivery",
+        "carrier": "Carrier",
+        "thank": "Thank",
+        "order_detail": "ORderDetail",
+        "profile": "Profile",
+        "order": "Order",
+        "terms": "Terms",
+        "about": "About",
+        "add_card_credit": "AddCardCredit",
+        "update_card_credit": "UpdateCardCredit",
+        "card_credit": "CardCredit",
+        "notification": "Notification",
+        "address": "Address",
+        "addresses": "AddAddress",
+        "address_detail": "AddressDetail",
+        "map": "Map"
+    },
+    "cards_data": {
+        "cod_1": "Cash on delivery (COD)",
+        "cod": "Cash on delivery"
+    },
+    "carrier_data": {
+        "aramex": "Aramex",
+        "fast": "fast"
+    }
+    
+}
